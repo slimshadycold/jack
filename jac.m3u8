@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo RJ HD
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/170.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo RJ
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/1448.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo SP
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/89.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/qnNMqsD.png" group-title="Canais Abertos",RBS TV Porto Alegre
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/43.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="TV Tem Sorocaba" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",TV Tem Sorocaba
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/1447.ts
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasilia" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Brasilia
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/1446.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Minas
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/1443.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="TV Tem Bauru" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",TV Tem Bauru
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/1444.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="TV Anhanguera Goiânia" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",TV Anhanguera Goiânia
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/1445.ts
+#EXTINF:-1 tvg-id="TVGloboPortugal.pt" tvg-name="Globo Portugal" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Portugal
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/448.ts
+#EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="Globo Premium" tvg-logo="https://s15.postimg.org/55nkqx48b/globo_premium.png" group-title="Canais Abertos",Globo Premium
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/449.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band HD" tvg-logo="http://i.imgur.com/1yYrkhc.png" group-title="Canais Abertos",Band HD
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/193.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Canais Abertos",Band
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/124.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Canais Abertos",SBT HD
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/147.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Canais Abertos",SBT
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/36.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV HD
+http://mundogf.dyndns.tv:25461/live/cNek8pQdU1/I1dFIQGF5D/149.ts 
